@@ -1,3 +1,13 @@
+---
+title: "Obana Lettle VSD(2)-65"
+creator: Oddly Salacious
+created: 2020-12-26
+modified: 2021-01-03
+rights: "The author and creator claim no rights to this material."
+type: text
+subject: starwars fanfiction https://boards.theforce.net/threads/the-prolific-writers-index-updates-on-the-1st-16th-of-every-month.50027002/page-5#post-55957465
+permalink: obana-lettle-vsd2-65.html
+---
 ## Introduction
 
 **Obana Lettle VSD(2)-65** is a *Victory*-class Star Destroyer built for the Galactic Imperial Navy. The VSD _Obana Lettle_ completed its Class II refit on 37:1:29, extending its anticipated service life for another thirty years. The _Lettle_ has a crew of 5881 service members and is capable of carrying up to 24 fighter craft (in TIE racks); with room for 3 shuttles or several smaller ferry craft.
