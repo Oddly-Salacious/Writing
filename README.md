@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to _Oddly Salacious's Writings_
 
-You can use the [editor on GitHub](https://github.com/Oddly-Salacious/Writing/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Tom Jones 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A sidebar and a better theme are coming, but I'm still hammering out issues with the site and repo.
 
-### Markdown
+## Pages
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Star Wars
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Oddly-Salacious/Writing/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Oddly's Timeline](https://oddly-salacious.github.io/Writing/oddlys-timeline.html)  
+[Oddly's FanFic Index](https://boards.theforce.net/threads/the-prolific-writers-index-updates-on-the-1st-16th-of-every-month.50027002/page-5#post-55957465)  
+[Odd;y's OC Index](https://boards.theforce.net/threads/oc-index-thread-index-updated-03-feb-2017.50026711/page-2#post-56948279)  
